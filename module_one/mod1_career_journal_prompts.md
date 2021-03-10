@@ -17,8 +17,8 @@ Copy these prompts into the career journal document you started in Mod 0. Please
 ### Mod 1 Week 1: Understanding your strengths <a name="week-1"></a>
 Answer the below questions in a separate gist and link them into your career journal using this template:
 
-Week 1: [Link here to your gist]
-- [ ] (completed)
+Week 1: [https://gist.github.com/kevn7n/1b456ab4b716f24f2c33d63fd3d710ce]
+- [X] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
 
@@ -56,8 +56,8 @@ If you will not be able to complete your journal this week, please provide an up
 ### Mod 1 Week 2: Building Your Compass <a name="week-2"></a>
 Answer the below questions in a separate gist and link them into your career journal using this template:
 
-Week 2: [Link here to your gist]
-- [ ] (completed)
+Week 2: [https://gist.github.com/kevn7n/f0b53409f73450e8f80bdae1d78afcd5/edit]
+- [X] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
 
@@ -104,8 +104,8 @@ Reflect:
 ### Mod 1 Week 3: Habits & Accountability Systems   <a name="week-3"></a>
 Answer the below questions in a separate gist and link them into your career journal using this template:
 
-Week 3: [Link here to your gist]
-- [ ] (completed)
+Week 3: [https://gist.github.com/kevn7n/d6def16d766475656560844dfadd63d9]
+- [X] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
 
@@ -134,8 +134,8 @@ Additional Optional Reading: [The Five Triggers That Make New Habits Stick](http
 ### Mod 1 Week 4: Creating Your Vision, Part I <a name="week-4"></a>
 Answer the below questions in a separate gist and link them into your career journal using this template:
 
-Week 4: [Link here to your gist]
-- [ ] (completed)
+Week 4: [https://gist.github.com/kevn7n/d2655bedbb624d9d448fa620cb211eab]
+- [X] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
 
@@ -178,10 +178,12 @@ Based on this week of reflections, write out your initial vision statement for y
 ### Mod 1 Week 5: Creating Your Vision, Part II  <a name="week-5"></a>
 Answer the below questions in a separate gist and link them into your career journal using this template:
 
-Week 5: [Link here to your gist]
+Week 5: [https://gist.github.com/kevn7n/718747dcd331d2bae319724d70355994]
 - [ ] (completed)
-- [ ] (partially complete)
+- [X] (partially complete)
 - [ ] (not started)
+
+**Only flower exercise remains, will be completed by the end of this last/finals week.**
 
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here (remember to reflect on what you have control over, what you want to try differently this week, and what habits you can utilize to get back on track): 
 
