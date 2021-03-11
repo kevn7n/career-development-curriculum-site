@@ -179,8 +179,8 @@ Based on this week of reflections, write out your initial vision statement for y
 Answer the below questions in a separate gist and link them into your career journal using this template:
 
 Week 5: [https://gist.github.com/kevn7n/718747dcd331d2bae319724d70355994]
-- [ ] (completed)
-- [X] (partially complete)
+- [X] (completed)
+- [ ] (partially complete)
 - [ ] (not started)
 
 **Only flower exercise remains, will be completed by the end of this last/finals week.**
